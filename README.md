@@ -21,7 +21,7 @@ stack.<br>
 –	Concurrently work with the Testing Team for testing the new changes on the System. <br>
 <b>Position</b>: AFC Engineer (JICA Local Consultant). <br>
 <b>Technology used</b>: C, C++, Web API, Batch Scripting <br>
-<b>Team Size</b>: 7 (JICA Local Consultant). <br>
+<b>Team Size</b>: 7 <br>
 <br>
 <b>Katahira & Engineers International (Japan) (January, 2019 – July, 2020)</b> <br>
 <b>Main Duties</b> <br>
